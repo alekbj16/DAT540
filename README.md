@@ -1,6 +1,6 @@
 # DAT540 - Introduction to Data Science
 
-Exercises from the course DAT540 Introduction to Data Science at the University of Stavanger. 
+Mandatory exercises from the course DAT540 Introduction to Data Science at the University of Stavanger. 
 
 Semester: Fall 2020
 
